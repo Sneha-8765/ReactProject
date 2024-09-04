@@ -30,7 +30,7 @@ const Navbar = () => {
               href="#services"
               className="text-white hover:bg-green-500 hover:text-white px-3 py-2 rounded-md transition duration-300"
             >
-              Services
+              My Services
             </a>
             <a
               href="#contact"
